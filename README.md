@@ -387,15 +387,15 @@ The application uses the saved `gtsrb\_model.keras` model for inference.
 
 ### Traffic Sign Recognition Interface
 
-![Traffic Sign Recognition App](Images/app-interface.png)
+![Traffic Sign Recognition App](images/app-interface.png)
 
 ### Prediction Result
 
-![Traffic Sign Prediction](Images/prediction-result.png)
+![Traffic Sign Prediction](images/prediction-result.png)
 
 ### Another Prediction
 
-![Traffic Sign Prediction Example](Images/prediction-result-2.png)
+![Traffic Sign Prediction Example](images/prediction-result-2.png)
 
 
 
